@@ -1,12 +1,33 @@
-# Kojiro Tsugaru
+## 🧑‍💻 About Me
+I'm currently studying computer science at University of California Berkeley.
 
-![Your Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=KojiroTsugaru&show_icons=true&theme=radical)
+<h2> 🔧 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="swift" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="xcode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="firebase" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="sklearn" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
+  <i class="devicon-flask-original"></i>
+          
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KojiroTsugaru&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 GitHub Stats
 
----
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=KojiroTsugaru&show_icons=true&theme=radical" alt="GitHub stats" style="max-width: 45%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KojiroTsugaru&layout=compact" alt="Top Langs" style="max-width: 45%;">
+</div>
 
-## 🧑‍💻 Let's Connect!
+## Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/)
 - [Email](mailto:t.kojiro332@gmail.com)
