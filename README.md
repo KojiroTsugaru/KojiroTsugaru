@@ -1,6 +1,10 @@
 ## 🧑‍💻 About Me
 I'm currently studying computer science at University of California Berkeley.
 
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kojiro-tsugaru-a53bb7207/)
+
 <h2> 🔧 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="swift" width="45" height="45"/>
@@ -24,10 +28,5 @@ I'm currently studying computer science at University of California Berkeley.
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=KojiroTsugaru&show_icons=true&theme=radical" alt="GitHub stats" style="max-width: 45%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KojiroTsugaru&layout=compact" alt="Top Langs" style="max-width: 45%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KojiroTsugaru&layout=compact&theme=radical" alt="Top Langs" style="max-width: 45%;">
 </div>
-
-## Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/)
-- [Email](mailto:t.kojiro332@gmail.com)
